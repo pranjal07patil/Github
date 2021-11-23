@@ -4,3 +4,7 @@ typing options
 colors
 video
 calling
+
+
+dark mode
+whitemode
